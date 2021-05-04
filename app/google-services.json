@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396898034028",
+    "firebase_url": "https://snapship-6fc47-default-rtdb.firebaseio.com",
+    "project_id": "snapship-6fc47",
+    "storage_bucket": "snapship-6fc47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396898034028:android:9e0733f5b3849c6e981349",
+        "android_client_info": {
+          "package_name": "com.example.snapship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396898034028-aiv3cgqp951gr679aunvndtrtnkclbv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo84Hl8uUz4R7XapPburzq03CEDeek8OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396898034028-aiv3cgqp951gr679aunvndtrtnkclbv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SnapShip</string>
+    <string name="sign_up_b">Зарегистрироваться</string>
+    <string name="sign_in_b">Войти</string>
+    <string name="sign_in_t">У вас уже есть аакаунт?</string>
+    <string name="sign_in">Войти в существующий аккаунт</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="ed_username">Введите имя аккаунта</string>
+    <string name="ed_name">Имя Фамилия</string>
+    <string name="ed_bio">Биография</string>
+    <string name="ed_mail">Введите свою почту</string>
+    <string name="ed_pas">Введите пароль</string>
+    <string name="ed_search">Поиск</string>
+    <string name="notifications">Уведомления</string>
+    <string name="follow">Подписаться</string>
+    <string name="follow_b">Подписаны</string>
+    <string name="close">Закрыть</string>
+    <string name="post">Выложить</string>
+    <string name="description">Описание</string>
+    <string name="loading">Идёт загрузка</string>
+    <string name="like">Нравится:</string>
+    <string name="settings">Настройки</string>
+    <string name="story">Ваша истор…</string>
+    <string name="ed_cmt">Введите свой комментарий</string>
+    <string name="change">Сменить аккаунт</string>
+    <string name="followers">Подписчики</string>
+    <string name="followings">Подписки</string>
+    <string name="likes">Отметки "Нравится"</string>
+    <string name="edit_post">Редактирование публикации.</string>
+    <string name="alert_delete">Вы действительно хотите удалить публикацию?</string>
+    <string name="delete">Удаление публикации</string>
+    <string name="change_mes">Вы уверены,что хотите сменить аккаунт?Все несохраненные данные будут утерены.</string>
+    <string name="send_cmt">Опубликовать</string>
+    <string name="close_mes">Вы уверены ,что хотите закрыть окно выбора фотографий?</string>
+    <string name="edit_img">Изменить фото профиля</string>
+    <string name="posts">Публикации</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
